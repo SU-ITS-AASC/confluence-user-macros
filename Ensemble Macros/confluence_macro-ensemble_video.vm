@@ -1,0 +1,10 @@
+## Macro Name: ensemble
+## Macro Title: Ensemble Video
+## Description: Ensemble Video Embed Macro
+## Categories: Communication
+## Developed by:  Brandon Viertel
+## Date:  Mar 2020
+##
+## @param videoID:title=Video ID|type=string|required=true|desc=Enter ID number for video
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; height: 0; overflow: auto; -webkit-overflow-scrolling: touch;"><iframe id="ensembleEmbeddedContent_k3GtTqT9_E6iz-7_n9t0MA" src="https://ensemble.syr.edu/hapi/v1/contents/$paramvideoID/plugin?embedAsThumbnail=false&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&displaySharing=false&displayAnnotations=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=false&displayCredits=false&audioPreviewImage=false&displayCaptionSearch=false&displayViewersReport=false&displayAxdxs=false" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" scrolling="no" allowfullscreen></iframe></div>
